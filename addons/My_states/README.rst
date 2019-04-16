@@ -1,5 +1,5 @@
 ================================
-Tu veux las plus bonne de mes copines
+Tu veux la plus bonne de mes copines
 ================================
 
 .. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
