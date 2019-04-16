@@ -1,0 +1,4 @@
+[submodule "Orunarss/demo/tree/master/addons/My_states"]
+	path = Orunarss/demo/tree/master/addons/My_states
+	url = git@github.com:Orunarss/demo.git
+	branch = master
