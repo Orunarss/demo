@@ -4,6 +4,7 @@
 {
     "name" : "Ottos super nice module",
     "version" : "1.0",
+    "installable" : True,
     "author" : "Otto the bestest developer ever",
     'category': 'Localization',
     "description": """
