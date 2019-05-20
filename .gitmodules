@@ -2,3 +2,8 @@
 	path = Orunarss/demo/tree/master/addons/My_states
 	url = git@github.com:Orunarss/demo.git
 	branch = master
+
+[submodule "OCA/l10n-spain"]
+	path = OCA/l10n-spain
+	url = git@github.com:OCA/l10n-spain.git
+	branch = 12.0
