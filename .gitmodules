@@ -7,3 +7,8 @@
 	path = OCA/l10n-spain
 	url = git@github.com:OCA/l10n-spain.git
 	branch = 12.0
+
+[submodule "oca/vertical-hotel"]
+	path = oca/vertical-hotel
+	url = git@github.com:oca/vertical-hotel.git
+	branch = 13.0
